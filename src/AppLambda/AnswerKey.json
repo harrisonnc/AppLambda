@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "questionText": "Have you ever been convicted of a felony?",
+        "answer": "no"
+    },
+    {
+        "id": 2,
+        "questionText": "Do you currently own your own truck?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "questionText": "Would you pass a background check?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "questionText": "Are you authorized to work in the United States?",
+        "answer": "yes"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "John",
+        "questions":
+        [
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "yes"
+            },
+            {
+                "id": 1,
+                "answer": "yes"
+            },
+            {
+                "id": 1,
+                "answer": "yes"
+            }
+        ]
+    },
+    {
+        "name": "Bob",
+        "questions":
+        [
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "yes"
+            },
+            {
+                "id": 1,
+                "answer": "yes"
+            },
+            {
+                "id": 1,
+                "answer": "no"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "questions":
+        [
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "no"
+            }
+        ]
+    },
+    {
+        "name": "Alex",
+        "questions":
+        [
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "no"
+            },
+            {
+                "id": 1,
+                "answer": "no"
+            }
+        ]
+    }
+]

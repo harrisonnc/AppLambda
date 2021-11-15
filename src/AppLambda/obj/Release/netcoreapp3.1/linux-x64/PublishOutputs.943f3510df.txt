@@ -1,0 +1,9 @@
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\AppLambda.dll
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\AppLambda.deps.json
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\AppLambda.runtimeconfig.json
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\AppLambda.pdb
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.Json.dll
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\git\AppLambda\src\AppLambda\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
